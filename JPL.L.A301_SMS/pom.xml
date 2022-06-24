@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>JPL.L.A301_SMS</groupId>
+	<artifactId>JPL.L.A301_SMS</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>JPL.L.A301_SMS</name>
+	<description>JPL.L.A301_SMS</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>6.3.6.jre8-preview</version>
+		</dependency>
+		<dependency>
+			<groupId>com.github.freva</groupId>
+			<artifactId>ascii-table</artifactId>
+			<version>1.2.0</version>
+		</dependency>
+	</dependencies>
+</project>

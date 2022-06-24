@@ -1,0 +1,3 @@
+# JPL.L.A301_SMS
+Maven project with JDBC
+JRE11 And SQL SERVER 2008 R2
